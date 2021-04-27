@@ -2,6 +2,8 @@
 From one of Chris Dutton courses on powerbi by Maven Analytics , I used the dataset to create this report and derived the following insights.
 
 Key Insight
+
+
 📍Customers on an average income level generated more revenue for the company with a marginal difference of $11.15m in comparison with the very high income earners.
 
 
